@@ -20,6 +20,22 @@ Companion mobile app untuk Sentinel Ops (ITSM / security operations). Dibangun d
 - **Laporan & ekspor**: pratinjau insiden/aset/audit dan aksi ekspor CSV.
 - **Pengaturan**: server, sinkronisasi, push, target SLA, dan ekspor.
 
+## Rilis & Instalasi
+
+Unduh APK rilis terbaru dari GitHub Releases:
+
+```text
+https://github.com/oxyrus69/sentinel-ops-android/releases/tag/v1.0.0
+```
+
+File APK:
+
+```text
+SentinelOps-1.0.0.apk
+```
+
+Aktifkan izin **Install unknown apps** sebelum memasang APK di perangkat.
+
 ## Build & tes
 
 ```powershell
